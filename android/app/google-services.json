@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:607090876834:android:f5cd25aebe5f7c881212fb",
+        "mobilesdk_app_id": "1:607090876834:android:6e0705e2591807421212fb",
         "android_client_info": {
-          "package_name": "app.fiore.guia_do_levain"
+          "package_name": "app.fiore.guiadolevain"
         }
       },
       "oauth_client": [
@@ -30,6 +30,13 @@
             {
               "client_id": "607090876834-5n5rl2k9jcp8irke8228ck25mjpkcjep.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "607090876834-t5de7gu0jndcs3hil1tir6gikjun2r1o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.fiore.guiadolevain"
+              }
             }
           ]
         }

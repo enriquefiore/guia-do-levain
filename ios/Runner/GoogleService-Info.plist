@@ -1,11 +1,11 @@
-q<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>607090876834-t5de7gu0jndcs3hil1tir6gikjun2r1o.apps.googleusercontent.com</string>
+	<string>607090876834-dfuunajj4mh84g57o38keat4dpotn8e4.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.607090876834-t5de7gu0jndcs3hil1tir6gikjun2r1o</string>
+	<string>com.googleusercontent.apps.607090876834-dfuunajj4mh84g57o38keat4dpotn8e4</string>
 	<key>API_KEY</key>
 	<string>AIzaSyB20mDglujkPGxMoSY668I2kidWVtTYXEo</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@ q<?xml version="1.0" encoding="UTF-8"?>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>app.fiore.guia-do-levain</string>
+	<string>app.fiore.guiadolevain</string>
 	<key>PROJECT_ID</key>
 	<string>guia-do-levain</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,7 +29,7 @@ q<?xml version="1.0" encoding="UTF-8"?>
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:607090876834:ios:7a84fc1fb16637151212fb</string>
+	<string>1:607090876834:ios:43f1128238f463ac1212fb</string>
 	<key>DATABASE_URL</key>
 	<string>https://guia-do-levain.firebaseio.com</string>
 </dict>
