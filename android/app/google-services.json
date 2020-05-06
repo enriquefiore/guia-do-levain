@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607090876834",
+    "firebase_url": "https://guia-do-levain.firebaseio.com",
+    "project_id": "guia-do-levain",
+    "storage_bucket": "guia-do-levain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607090876834:android:f5cd25aebe5f7c881212fb",
+        "android_client_info": {
+          "package_name": "app.fiore.guia_do_levain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607090876834-5n5rl2k9jcp8irke8228ck25mjpkcjep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMWE75YimqHjEVvs_b2uEUpYt8q_JUP4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607090876834-5n5rl2k9jcp8irke8228ck25mjpkcjep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
