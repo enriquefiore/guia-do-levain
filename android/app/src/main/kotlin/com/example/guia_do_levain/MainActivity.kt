@@ -1,4 +1,4 @@
-package com.example.guia_do_levain
+package app.fiore.guia_do_levain
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
